@@ -3,6 +3,6 @@ A banyan of all things PluralityNET — many roots, trunks, and interconnectedn
 
 ## Links
 
- * https://github.com/PluralityNET/Project.GodAndAdam.Distributed
- * https://github.com/PluralityNET/PluralityNET_VR
+ * https://github.com/PluralityNET/Project.GodAndAdam.Distributed — bionics, multi-model, AI doing forecasts/planning, etc et al;
+ * https://github.com/PluralityNET/PluralityNET_VR — vr/ar/mr stuff;
  * …
